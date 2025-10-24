@@ -1,0 +1,14 @@
+# Build artifacts
+build/
+*.app
+*.zip
+
+# macOS
+.DS_Store
+*.swp
+*.swo
+*~
+
+# Xcode
+*.xcodeproj
+*.xcworkspace
